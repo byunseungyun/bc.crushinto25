@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://bc.crushinto.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
